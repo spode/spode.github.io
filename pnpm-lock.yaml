@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      portfolio:
+        specifier: 'link:'
+        version: 'link:'
     devDependencies:
       '@sveltejs/adapter-node':
         specifier: ^5.4.0

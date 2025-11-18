@@ -9,7 +9,7 @@
 </script>
 
 <div
-    class="antialiased max-w-5xl md:py-20 px-4 prose-p:mt-0.5 prose backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
+    class="max-w-5xl prose prose-h4:py-0 md:py-20 px-4 prose-p:mt-0.5 backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
 >
     <h1>Hello! I am Chris</h1>
     <div>
@@ -30,6 +30,9 @@
                         alt="Chris"
                     />
                     <div class="tags flex-col flex gap-4 justify-center">
+                        <a download href="/christianbang_cv.pdf"
+                            ><Resume width={"w-8"} /></a
+                        >
                         <a href="https://github.com/spode"
                             ><GitHub width={"w-8"} /></a
                         >
@@ -39,9 +42,6 @@
                         <a
                             href="https://bsky.app/profile/chrisbsides.bsky.social"
                             ><Bsky width={"w-8"} /></a
-                        >
-                        <a download href="/christianbang_cv.pdf"
-                            ><Resume width={"w-8"} /></a
                         >
                     </div>
                 </div>
@@ -136,17 +136,17 @@
 
     <h3>University studies</h3>
     <div>
-        <h4>Computer Science</h4>
-        <p>
-            Studied programming in C, objectoriented programming in Java,
-            HTML/CSS, maths and more.
-        </p>
-        <h4>Game Design</h4>
+        <h4>Game Design, 2019</h4>
         <p>
             Got a Bachelors degree in Game Design at Uppsala University, Campus
             Gotland. The programme was mostly oriented around group projects we
             made in Unity and Unreal but I took also took extra programming
             courses.
+        </p>
+        <h4>Computer Science, 2015</h4>
+        <p>
+            Studied programming in C, objectoriented programming in Java,
+            HTML/CSS, maths and more.
         </p>
     </div>
 </div>
