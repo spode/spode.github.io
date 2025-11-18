@@ -5,7 +5,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     fill="currentColor"
-    class="bi bi-file-earmark-person-fill fill-black dark:fill-white hover:fill-gray-600 {width}"
+    class="bi bi-file-earmark-person-fill fill-black dark:fill-brown-100 hover:fill-gray-600 {width}"
     viewBox="0 0 16 16"
 >
     <title id="svgTitle">resume</title>

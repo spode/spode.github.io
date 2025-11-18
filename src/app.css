@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
@@ -24,7 +26,11 @@
 html,
 body {
   height: 100%;
-  font-family: Georgia, serif;
+  /* font-family: "Georgia", serif; */
+  font-family: "Merriweather", serif;
+  /* font-family: "EB Garamond", serif; */
+
+  /* font-family: Georgia, serif; */
   /* color: oklch(0.94 0.11 .03); */
 }
 
@@ -79,4 +85,10 @@ body {
   --color-well-read-800: #872a30;
   --color-well-read-900: #74272e;
   --color-well-read-950: #401114;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    scrollbar-color: var(--color-brown-200) var(--color-brown-900);
+  }
 }

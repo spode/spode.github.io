@@ -9,9 +9,9 @@
 </script>
 
 <div
-    class="max-w-5xl prose-h1:mb-0 prose-h1:py-0 prose prose-h4:py-0 md:py-20 px-4 prose-p:mt-0.5 backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
+    class="max-w-5xl prose-h1:lg:mb-0 prose-h1:py-0 prose prose-h4:py-0 md:py-20 px-4 prose-p:mt-0.5 backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
 >
-    <h1>Hello! I am Chris</h1>
+    <h1 class="text-center">Hello! I am Chris</h1>
     <div>
         <div class="flex flex-col md:flex-row items-center gap-2">
             <p class="lead">
@@ -138,10 +138,9 @@
     <div>
         <h4>Game Design, 2019</h4>
         <p>
-            Got a Bachelors degree in Game Design at Uppsala University, Campus
-            Gotland. The programme was mostly oriented around group projects we
-            made in Unity and Unreal but I took also took extra programming
-            courses.
+            Studied Game Design at Uppsala University, Campus Gotland and got a
+            Bachelors Degree. The programme was mostly focused on group project
+            work but I also took extra programming courses for my minor.
         </p>
         <h4>Computer Science, 2015</h4>
         <p>
