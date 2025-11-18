@@ -127,7 +127,7 @@
         <h4>Computer Science</h4>
         <p>
             Studied programming in C, objectoriented programming in Java,
-            HTML/CSS and maths and some more theoretical courses.
+            HTML/CSS, maths and more.
         </p>
         <h4>Game Design</h4>
         <p>
