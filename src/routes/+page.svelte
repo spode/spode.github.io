@@ -15,10 +15,10 @@
     <div>
         <div class="flex flex-col md:flex-row items-center gap-2">
             <p class="lead">
-                I love technology and have been a sysadmin type pretty much my
-                entire life. I am now pivoting into software- and
-                webdevelopment, largely due to discovering fullstack web
-                frameworks. I love how easily you can make something both
+                I love technology and have been a sysadmin-type person pretty
+                much my entire life. I am now pivoting towards software- and
+                webdevelopment, largely due to discovering the joy of fullstack
+                web frameworks. I love how easily you can make something both
                 nice-looking and responsive, and also easily deploy it to the
                 web.
             </p>
