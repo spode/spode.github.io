@@ -9,18 +9,18 @@
 </script>
 
 <div
-    class="max-w-5xl prose prose-h4:py-0 md:py-20 px-4 prose-p:mt-0.5 backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
+    class="max-w-5xl prose-h1:mb-0 prose-h1:py-0 prose prose-h4:py-0 md:py-20 px-4 prose-p:mt-0.5 backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
 >
     <h1>Hello! I am Chris</h1>
     <div>
         <div class="flex flex-col md:flex-row items-center gap-2">
             <p class="lead">
                 I love technology and have been a sysadmin-type person pretty
-                much my entire life. I am now pivoting towards software- and
-                webdevelopment, largely due to discovering the joy of fullstack
-                web frameworks. I love how easily you can make something both
-                nice-looking and responsive, and also easily deploy it to the
-                web.
+                much my entire life. I am now pivoting towards web and software
+                development, largely due to discovering the joy of fullstack
+                frameworks. I love how easily you can make something both
+                nice-looking and responsive, and also how smoothly it can be
+                deployed to the web.
             </p>
             <div class="picandsocials flex flex-col gap-4">
                 <div class="flex flex-row gap-4">
@@ -152,5 +152,5 @@
 </div>
 
 <svelte:head>
-    <title>Christian Bång portfolio</title>
+    <title>Chris, Fullstack Developer</title>
 </svelte:head>
