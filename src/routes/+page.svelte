@@ -77,9 +77,9 @@
         <p>
             Was part of a team of fullstack-developer interns @ Knowit Östersund
             where we built a webapp with ASP.NET backend and React frontend. I
-            was primarily focused on backend user and role management plus AWS
-            auth, but I also took the opportunity to improve frontend skills and
-            learn React with Shadcn components.
+            was primarily focused on backend user- and rolemanagement combined
+            with AWS authentication, but I also took the opportunity to learn
+            more React with together with Shadcn components.
         </p>
 
         <div class="tags flex flex-wrap gap-2">
