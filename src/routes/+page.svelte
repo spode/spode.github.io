@@ -27,7 +27,9 @@
                     alt="Chris"
                 />
                 <div class="tags flex-col flex gap-4 justify-center">
-                    <a href="https://chrisb.se"><GitHub width={"w-8"} /></a>
+                    <a href="https://github.com/spode"
+                        ><GitHub width={"w-8"} /></a
+                    >
                     <a href="https://www.linkedin.com/in/christianbaang/"
                         ><LinkedIn width={"w-8"} /></a
                     >
