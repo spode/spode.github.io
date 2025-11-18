@@ -16,11 +16,10 @@
         <div class="flex flex-col md:flex-row items-center gap-2">
             <p class="lead">
                 I love technology and have been a sysadmin type person most of
-                my life. I am now pivoting to software and web development,
-                largely due to discovering fullstack web frameworks like
-                SvelteKit. I love how you can you easily you can make something
-                nice looking and responsive and also easily deploy it to the
-                web.
+                my life. I am now pivoting towards software and web development,
+                largely due to discovering fullstack frameworks like SvelteKit.
+                I love how you can you easily you can make something nice
+                looking and responsive and also easily deploy it to the web.
             </p>
             <div class="picandsocials flex flex-col gap-4">
                 <div class="flex flex-row gap-4">
