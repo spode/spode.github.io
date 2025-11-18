@@ -20,8 +20,7 @@
                 largely due to discovering fullstack web frameworks like
                 SvelteKit. I love how you can you easily you can make something
                 nice looking and responsive and also easily deploy it to the
-                web. <br />I am currently studying fullstack .NET development at
-                YH Akademin.
+                web.
             </p>
             <div class="picandsocials flex flex-col gap-4">
                 <div class="flex flex-row gap-4">
@@ -72,7 +71,7 @@
     </div>
 
     <h3>Work History / Projects</h3>
-    <h4>Internship</h4>
+    <h4>Internship, Fall 2025</h4>
     <div>
         <p>
             Was part of a team of fullstack-developer interns @ Knowit Östersund
@@ -85,7 +84,7 @@
         <div class="tags flex flex-wrap gap-2">
             <Tag>ASP.NET</Tag>
             <Tag>React</Tag>
-            <Tag>Shadcn/ui</Tag>
+            <Tag>shadcn/ui</Tag>
             <Tag>TailwindCSS</Tag>
             <Tag>TypeScript</Tag>
         </div>
@@ -125,8 +124,8 @@
     <h4>LoL Matchhistory</h4>
     <div>
         <p>
-            Webapp I made to get an overview of my teams recent matchhistory to
-            make get a vibecheck of the state of the team.
+            Webapp I made to get an overview of my team's recent matchhistory to
+            get a quick glance of the state of the team.
         </p>
         <div class="tags flex flex-wrap gap-2">
             <Tag>Riot Games API</Tag>
@@ -153,5 +152,5 @@
 </div>
 
 <svelte:head>
-    <title>Portfolio Christian Bång</title>
+    <title>Christian Bång portfolio</title>
 </svelte:head>
