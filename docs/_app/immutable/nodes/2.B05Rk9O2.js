@@ -3,7 +3,7 @@ import{c as b,a as r,f as Q,t as i}from"../chunks/D3gNeMTo.js";import"../chunks/
                 largely due to discovering fullstack web frameworks like
                 SvelteKit. I love how you can you easily you can make something
                 nice looking and responsive and also easily deploy it to the
-                web.</p> <div class="picandsocials flex gap-4"><img class="aspect-square max-w-[150px] grayscale rounded-xl md:ml-8" alt="Chris"/> <div class="tags flex-col flex gap-4 justify-center"><a href="https://chrisb.se"><!></a> <a href="https://www.linkedin.com/in/christianbaang/"><!></a> <a href="https://bsky.app/profile/chrisbsides.bsky.social"><!></a></div></div></div> <div><p class="lead">I am currently studying fullstack .NET development at YH
+                web.</p> <div class="picandsocials flex gap-4"><img class="aspect-square max-w-[150px] grayscale rounded-xl md:ml-8" alt="Chris"/> <div class="tags flex-col flex gap-4 justify-center"><a href="https://github.com/spode"><!></a> <a href="https://www.linkedin.com/in/christianbaang/"><!></a> <a href="https://bsky.app/profile/chrisbsides.bsky.social"><!></a></div></div></div> <div><p class="lead">I am currently studying fullstack .NET development at YH
                 Akademin.</p> <div class="tags flex flex-wrap gap-2"><!> <!> <!> <!> <!> <!> <!> <!></div></div></div> <h3>Work History / Projects</h3> <h4>Internship</h4> <div><p>Was part of a team of fullstack-developer interns @ Knowit Östersund
             where we built a webapp with ASP.NET backend and React frontend. I
             was primarily focused on backend user and role management plus AWS
