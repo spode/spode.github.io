@@ -9,7 +9,7 @@
 </script>
 
 <div
-    class="antialiased max-w-5xl px-4 prose-p:mt-0.5 prose backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
+    class="antialiased max-w-5xl md:py-20 px-4 prose-p:mt-0.5 prose backdrop-blur-lg prose-brown dark:prose-invert lg:prose-lg xl:prose-xl pt-4 xl:pt-8 mx-auto"
 >
     <h1>Hello! I am Chris</h1>
     <div>
