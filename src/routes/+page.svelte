@@ -111,9 +111,8 @@
     <h4>LoL Matchhistory</h4>
     <div>
         <p>
-            Webapp I made to get an overview of me and my teammates recent
-            matchhistory to make informed decision on whether to play the match
-            or jump off.
+            Webapp I made to get an overview of my teams recent matchhistory to
+            make get a vibecheck of the state of the team.
         </p>
         <div class="tags flex flex-wrap gap-2">
             <Tag>Riot Games API</Tag>
@@ -134,11 +133,11 @@
             Got a Bachelors degree in Game Design at Uppsala University, Campus
             Gotland. The programme was mostly oriented around group projects we
             made in Unity and Unreal but I took also took extra programming
-            courses for my minor.
+            courses.
         </p>
     </div>
 </div>
 
 <svelte:head>
-    <title>Christian Bång portfolio</title>
+    <title>Portfolio Christian Bång</title>
 </svelte:head>
