@@ -5,7 +5,7 @@
 <svg
     aria-labelledby="svgTitle svgDescription"
     xmlns="http://www.w3.org/2000/svg"
-    class="bi bi-linkedin fill-black dark:fill-white"
+    class="bi bi-linkedin fill-black dark:fill-white hover:fill-gray-600 {width}"
     viewBox="0 0 16 16"
 >
     <title id="svgTitle">linkedin</title>

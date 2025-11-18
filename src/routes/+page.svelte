@@ -1,7 +1,9 @@
 <script>
     import Bsky from "$lib/components/Bsky.svelte";
+    import Geo from "$lib/components/Geo.svelte";
     import GitHub from "$lib/components/GitHub.svelte";
     import LinkedIn from "$lib/components/LinkedIn.svelte";
+    import Resume from "$lib/components/Resume.svelte";
     import Tag from "$lib/components/Tag.svelte";
     import Chris from "../lib/chris.jpg";
 </script>
@@ -18,29 +20,39 @@
                 largely due to discovering fullstack web frameworks like
                 SvelteKit. I love how you can you easily you can make something
                 nice looking and responsive and also easily deploy it to the
-                web.
+                web. <br />I am currently studying fullstack .NET development at
+                YH Akademin.
             </p>
-            <div class="picandsocials flex gap-4">
-                <img
-                    class="aspect-square max-w-[150px] grayscale rounded-xl md:ml-8"
-                    src={Chris}
-                    alt="Chris"
-                />
-                <div class="tags flex-col flex gap-4 justify-center">
-                    <a href="https://github.com/spode"
-                        ><GitHub width={"w-8"} /></a
-                    >
-                    <a href="https://www.linkedin.com/in/christianbaang/"
-                        ><LinkedIn width={"w-8"} /></a
-                    >
-                    <a href="https://bsky.app/profile/chrisbsides.bsky.social"
-                        ><Bsky width={"w-8"} /></a
-                    >
+            <div class="picandsocials flex flex-col gap-4">
+                <div class="flex flex-row gap-4">
+                    <img
+                        class="aspect-square max-w-[150px] grayscale rounded-xl md:ml-8"
+                        src={Chris}
+                        alt="Chris"
+                    />
+                    <div class="tags flex-col flex gap-4 justify-center">
+                        <a href="https://github.com/spode"
+                            ><GitHub width={"w-8"} /></a
+                        >
+                        <a href="https://www.linkedin.com/in/christianbaang/"
+                            ><LinkedIn width={"w-8"} /></a
+                        >
+                        <a
+                            href="https://bsky.app/profile/chrisbsides.bsky.social"
+                            ><Bsky width={"w-8"} /></a
+                        >
+                        <a download href="/christianbang_cv.pdf"
+                            ><Resume width={"w-8"} /></a
+                        >
+                    </div>
+                </div>
+                <div class="flex flex-row gap-2">
+                    <Geo width={"w-8"} /><span>Uppsala, Sweden</span>
                 </div>
             </div>
         </div>
         <!-- <h3>Current</h3> -->
-        <div>
+        <!-- <div>
             <p class="lead">
                 I am currently studying fullstack .NET development at YH
                 Akademin.
@@ -56,7 +68,7 @@
                 <Tag>HTML</Tag>
                 <Tag>CSS</Tag>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <h3>Work History / Projects</h3>
@@ -74,7 +86,7 @@
             <Tag>ASP.NET</Tag>
             <Tag>React</Tag>
             <Tag>Shadcn/ui</Tag>
-            <Tag>Tailwindcss</Tag>
+            <Tag>TailwindCSS</Tag>
             <Tag>TypeScript</Tag>
         </div>
     </div>
@@ -91,7 +103,7 @@
             <Tag>YouTube Player API</Tag>
             <Tag>SvelteKit</Tag>
             <Tag>TypeScript</Tag>
-            <Tag>Tailwindcss</Tag>
+            <Tag>TailwindCSS</Tag>
         </div>
     </div>
 
