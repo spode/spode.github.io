@@ -6,6 +6,8 @@
     import Resume from "$lib/components/Resume.svelte";
     import Tag from "$lib/components/Tag.svelte";
     import Chris from "../lib/chris.jpg";
+    import musicexe from "./musicexe.png";
+    import musicwebapp from "./musicwebapp.png";
 </script>
 
 <div
@@ -90,12 +92,23 @@
         </div>
     </div>
 
-    <h4>YT Playlist Player</h4>
-    <div>
-        <p>
-            Webapp I made to play YouTube music playlists and quickly toggle
-            on/off, play next when song end, shuffle songs, pick5random etc.
-        </p>
+    <div class="flex flex-col">
+        <div class="flex md:flex-row flex-col">
+            <div class="py-4">
+                <h4>YT Playlist Player</h4>
+                <p>
+                    Webapp I made to play YouTube music playlists and quickly
+                    toggle on/off, play next when song end, shuffle songs,
+                    pick5random etc.
+                </p>
+            </div>
+
+            <img
+                class="w-full md:w-[400px] h-auto"
+                src={musicwebapp}
+                alt="ytplaylists webapp"
+            />
+        </div>
 
         <div class="tags flex flex-wrap gap-2">
             <Tag>Youtube API</Tag>
@@ -106,13 +119,23 @@
         </div>
     </div>
 
-    <h4>Leaf Music Player</h4>
-    <div>
-        <p>
-            C# WPF .NET 9 Application. I wanted to try out making an offline
-            .exe file application for playing local mp3s/flacs on the PC and see
-            how to make it more modern looking.
-        </p>
+    <div class="flex flex-col">
+        <div class="flex md:flex-row flex-col">
+            <div class="py-4">
+                <h4>Leaf Music Player</h4>
+                <p>
+                    C# WPF .NET 9 Application. I wanted to try out making an
+                    offline .exe file application for playing local mp3s/flacs
+                    on the PC and see how to make it more modern looking.
+                </p>
+            </div>
+
+            <img
+                class="w-full md:w-[400px] h-auto"
+                src={musicexe}
+                alt="c# music player app"
+            />
+        </div>
 
         <div class="tags flex flex-wrap gap-2">
             <Tag>C#</Tag>
