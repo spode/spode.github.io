@@ -101,26 +101,30 @@
                     toggle on/off, play next when song end, shuffle songs,
                     pick5random etc.
                 </p>
+                <div class="tags flex flex-wrap gap-2">
+                    <Tag>Youtube API</Tag>
+                    <Tag>YouTube Player API</Tag>
+                    <Tag>SvelteKit</Tag>
+                    <Tag>TypeScript</Tag>
+                    <Tag>TailwindCSS</Tag>
+                </div>
             </div>
 
             <img
-                class="w-full md:w-[400px] h-auto"
+                class="w-full md:w-[400px] h-auto object-cover rounded md:ml-4"
                 src={musicwebapp}
                 alt="ytplaylists webapp"
             />
-        </div>
-
-        <div class="tags flex flex-wrap gap-2">
-            <Tag>Youtube API</Tag>
-            <Tag>YouTube Player API</Tag>
-            <Tag>SvelteKit</Tag>
-            <Tag>TypeScript</Tag>
-            <Tag>TailwindCSS</Tag>
         </div>
     </div>
 
     <div class="flex flex-col">
         <div class="flex md:flex-row flex-col">
+            <img
+                class="w-full md:w-[400px] h-auto md:mr-4 object-cover rounded"
+                src={musicexe}
+                alt="c# music player app"
+            />
             <div class="py-4">
                 <h4>Leaf Music Player</h4>
                 <p>
@@ -128,19 +132,12 @@
                     offline .exe file application for playing local mp3s/flacs
                     on the PC and see how to make it more modern looking.
                 </p>
+                <div class="tags flex flex-wrap gap-2">
+                    <Tag>C#</Tag>
+                    <Tag>.NET 9</Tag>
+                    <Tag>WPF</Tag>
+                </div>
             </div>
-
-            <img
-                class="w-full md:w-[400px] h-auto"
-                src={musicexe}
-                alt="c# music player app"
-            />
-        </div>
-
-        <div class="tags flex flex-wrap gap-2">
-            <Tag>C#</Tag>
-            <Tag>.NET 9</Tag>
-            <Tag>WPF</Tag>
         </div>
     </div>
 
@@ -159,13 +156,13 @@
 
     <h3>University studies</h3>
     <div>
-        <h4>Game Design, 2019</h4>
+        <h4>Uppsala Universitet - Game Design, 2019</h4>
         <p>
             Studied Game Design at Uppsala University, Campus Gotland and got a
             Bachelors Degree. The programme was mostly focused on group project
             work but I also took extra programming courses for my minor.
         </p>
-        <h4>Computer Science, 2015</h4>
+        <h4>Umeå Universitet - Computer Science, 2015</h4>
         <p>
             Studied programming in C, objectoriented programming in Java,
             HTML/CSS, maths and more.
